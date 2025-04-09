@@ -1,0 +1,32 @@
+
+.orders-container {
+  padding: 40px 20px;
+  max-width: 800px;
+  margin: auto;
+  text-align: center;
+}
+
+.orders-container h2 {
+  margin-bottom: 30px;
+  color: #2D1B55;
+}
+
+.orders-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.orders-table th,
+.orders-table td {
+  padding: 12px 15px;
+  border: 1px solid #ccc;
+}
+
+.orders-table th {
+  background-color: #f0f0f0;
+  color: #2D1B55;
+}
+
+.orders-table td {
+  color: #333;
+}

@@ -1,0 +1,11 @@
+
+[
+  { "id": 1, "name": "T-Shirt", "price": "200 EGP", "category": "clothing", "image": "https://img.icons8.com/ios-filled/100/t-shirt.png" },
+  { "id": 2, "name": "Laptop", "price": "7000 EGP", "category": "electronics", "image": "https://img.icons8.com/ios-filled/100/laptop.png" },
+  { "id": 3, "name": "Tomatoes", "price": "25 EGP", "category": "groceries", "image": "https://img.icons8.com/ios-filled/100/tomato.png" },
+  { "id": 4, "name": "Dog Food", "price": "120 EGP", "category": "pets", "image": "https://img.icons8.com/ios-filled/100/dog-bowl.png" },
+  { "id": 5, "name": "Lipstick", "price": "180 EGP", "category": "beauty", "image": "https://img.icons8.com/ios-filled/100/lipstick.png" },
+  { "id": 6, "name": "Notebook", "price": "35 EGP", "category": "books", "image": "https://img.icons8.com/ios-filled/100/book.png" },
+  { "id": 7, "name": "Earrings", "price": "250 EGP", "category": "accessories", "image": "https://img.icons8.com/ios-filled/100/earrings.png" },
+  { "id": 8, "name": "Chair", "price": "600 EGP", "category": "home supplies", "image": "https://img.icons8.com/ios-filled/100/armchair.png" }
+]
