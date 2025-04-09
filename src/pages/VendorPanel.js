@@ -1,0 +1,1 @@
+// VendorPanel.js placeholder
